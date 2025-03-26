@@ -2,7 +2,7 @@
 
 A feature-rich, responsive blogging platform built with Next.js 13, PostgreSQL, and Cloudinary.
 
-![Blog Platform Screenshot](https://place-hold.it/800x400/0a0a0a/ffffff&text=Blog+Platform&fontsize=30)
+![Screenshot 2025-03-05 023044](https://github.com/user-attachments/assets/96925827-e588-4507-a714-658c0be3bc53)
 
 ## Features
 
